@@ -101,9 +101,4 @@ public class EnumPropertyMap<E extends Enum<E>, T> {
 			items[i] = null;
 		}
 	}
-	
-	public class Mutator {
-		
-	}
-	
 }
