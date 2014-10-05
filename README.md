@@ -1,4 +1,4 @@
 PropertyLib
 ===========
 
-Library for selectively mutable properties and fast enum-driven mappings
+Library for selectively mutable fields with built-in getters and setters
